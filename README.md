@@ -1,6 +1,6 @@
 # Akka/REST Project Template
 
-This project is a template for getting started with SBT and Akka''s REST support.  It simply provides an initial development environment for experimentation.
+This project is a template for getting started with SBT and Akka''s REST support.  It simply provides an initial development environment for experimentation.  If you are interested in some samples checkout my akka-samples project.
 
 ## Notes
 * Because this project uses the AkkaServlet to run the application in a separate container, you do not need to download or clone the akka project.  
